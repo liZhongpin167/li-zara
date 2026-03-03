@@ -1,0 +1,4 @@
+boot-a https://github.com/liZhongpin167/64M-Boot-Sign/raw/refs/heads/main/apatch_boot_a.img
+boot-b https://github.com/liZhongpin167/64M-Boot-Sign/raw/refs/heads/main/apatch_boot_b.img
+vbmeta_a https://github.com/liZhongpin167/64M-Boot-Sign/raw/refs/heads/main/vbmeta_a.img
+vbmeta_b https://github.com/liZhongpin167/64M-Boot-Sign/raw/refs/heads/main/vbmeta_b.img
